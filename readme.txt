@@ -8,11 +8,11 @@ Stable tag: 1.9.9
 License: GPLv3
 Text Domain: -
 
-Download Monitor is a plugin for uploading and managing downloads, tracking downloads, and displaying links.
+DM with Meg edits. Download Monitor is a plugin for uploading and managing downloads, tracking downloads, and displaying links.
 
 == Description ==
 
-Download Monitor provides an interface for uploading and managing downloadable files (including support for multiple versions), inserting download links into posts, and logging downloads.
+DM with Meg edits. Download Monitor provides an interface for uploading and managing downloadable files (including support for multiple versions), inserting download links into posts, and logging downloads.
 
 = Features =
 
