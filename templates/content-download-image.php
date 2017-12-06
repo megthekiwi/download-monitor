@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 } // Exit if accessed directly
 ?>
-<aside class="download-image">
+<aside class="download-box">
 
 	<a href="<?php $dlm_download->the_download_link(); ?>"><?php $dlm_download->the_image(); ?></a>
 
